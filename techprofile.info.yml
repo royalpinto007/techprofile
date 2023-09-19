@@ -1,0 +1,21 @@
+name: Tech Trend
+type: theme
+description: 'Custom Theme for My Website.'
+package: Other
+core_version_requirement: ^10
+libraries:
+- techprofile/global-styling
+
+base theme: stark
+
+regions:
+  branding: Branding
+  navigation: Main navigation
+  search: Search
+  featured: Featured
+  content: Content
+  right_sidebar: Right sidebar
+  footer_first: Footer First
+  footer_second: Footer Second
+  footer_third: Footer Third
+  footer_bottom: Footer Bottom
